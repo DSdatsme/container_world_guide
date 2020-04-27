@@ -17,6 +17,7 @@ Author | Tutorial | Type | Comments | Note
 | -----| -------- | ---- | -------- | ----
 [Michael McClaren]() | https://linuxacademy.com/course/kubernetes-quick-start | Video | Very small course just to get a feel of Kubernetes. | It's **paid**.
 [Will Boyd]() | https://linuxacademy.com/course/kubernetes-essentials | Video | Covers all basic topics you need to know about K8s | It's **paid**.
+[Just me and Opensource](https://www.youtube.com/user/wenkatn) | https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0 | Video | All important topics covered with good hands-on demo | It's **free**.
 
 ## For Advanced
 
@@ -32,4 +33,3 @@ Author | Tutorial | Type | Comments | Note
 | -----| -------- | ---- | -------- | ----
 [Kelsey Hightower](https://github.com/kelseyhightower) | https://github.com/kelseyhightower/kubernetes-the-hard-way | GitHub | Learn to build a kubernetes cluster from scratch. | The code in this repo is written to run on Google Cloud Platform
 [Will Boyd]() | https://linuxacademy.com/course/kubernetes-the-hard-way | Video | You will learn to create Kubernetes cluster from scratch and will learn a lot about architecture of K8s. This course is reffered from Kelsey Hightower's repo. | It's a **paid** course.
-
