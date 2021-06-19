@@ -18,6 +18,7 @@ Author | Tutorial | Type | Comments | Note
 [Michael McClaren]() | https://linuxacademy.com/course/kubernetes-quick-start | Video | Very small course just to get a feel of Kubernetes. | It's **paid**.
 [Will Boyd]() | https://linuxacademy.com/course/kubernetes-essentials | Video | Covers all basic topics you need to know about K8s | It's **paid**.
 [Just me and Opensource](https://www.youtube.com/user/wenkatn) | https://www.youtube.com/playlist?list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0 | Video | All important topics covered with good hands-on demo | It's **free**.
+[Daniele](https://twitter.com/danielepolencic) | https://twitter.com/danielepolencic/status/1298543151901155330 | Twitter Thread | Its a list of thread which explains for components of K8s work | free.
 
 ## For Advanced
 
